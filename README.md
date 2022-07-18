@@ -1,7 +1,15 @@
 # HackFS 2022 Project
 
-HackFS 2022 Hackathon Project Repository.
+HackFS 2022 Hackathon Project Repository
 
-Period: July 8 - 27, 2022
+## Identity solution
 
-Based on Filecoin and IPFS.
+Identity
+
+## Powered by
+
+Self.ID, Ceramic Network, 3ID
+
+## Licnese
+
+MIT and Apache 2
