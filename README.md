@@ -2,14 +2,10 @@
 
 HackFS 2022 Hackathon Project Repository
 
-## Identity solution
+## Cloud solution
 
-Identity
-
-## Powered by
-
-Self.ID, Ceramic Network, 3ID
+Cloud
 
 ## Licnese
 
-MIT and Apache 2
+MIT
