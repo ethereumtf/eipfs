@@ -16,7 +16,7 @@
 
 > start ganache
 
-> set host and port in truffle config file (dropbox-blockchain > truffle-config.js)
+> set host and port in truffle config file
 
 
     networks: {
