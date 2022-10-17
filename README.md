@@ -17,6 +17,11 @@ OpenVPN: Open-source Virtual Private Network
 
 VPN-Tunneling: An encrypted connection between a device and a VPN server.
 
+
+< E-IPFS Structure >
+
+![E-IPFS Structure](https://github.com/ethereumtf/eipfs/blob/main/documents/images/e-ipfs-structure.png)
+
 ### E-IPFS Front-end
 Frontend introduces and describes E-IPFS, an enterprise IPFS.
 Public access allows anyone to see the information and learn how to use it.
