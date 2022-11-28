@@ -37,29 +37,29 @@ It is a service that allows corporate members to access files via VPN and share 
 
 ## Schedule
 
-- October
+- Phase 1
 
-. Week 1: E-IPFS Architecture and Design Improvements
+ a. E-IPFS Architecture and Design Improvements
 
-. Week 2: Developing a configuration schema for VPN connections
+ b. Developing a configuration schema for VPN connections
 
-. Week 3: Testing and improving the setup schema for VPN connections
+ c. Testing and improving the setup schema for VPN connections
 
-. Week 4: VPN tunneling related configuration and development
+ d. VPN tunneling related configuration and development
 
-- November
+- Phase 2
 
-. Week 1: Testing and Integration of VPN Tunneling
+ a. Testing and Integration of VPN Tunneling
 
-. Week 2: Implementation of file transfer function
+ b. Implementation of file transfer function
 
-. Week 3: Implementing and testing the file transfer function
+ c. Implementing and testing the file transfer function
 
-. Week 4: UI/UX Improvements
+ d. UI/UX Improvements
 
-- December
+- Phase 3
 
-. Weeks 1-4: User testing and bug fixes.
+ a. User testing and bug fixes.
 
 
 ## Links
